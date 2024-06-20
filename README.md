@@ -7,7 +7,7 @@ Hello 👋, I am a software engineer, particularly interested in systems and rel
     - [Pacparser](https://github.com/manugarg/pacparser) - C and python library to add PAC file parsing capability
     - [Page Notes](https://chromewebstore.google.com/detail/page-notes/omjdheidbhoghpfdnndkgoelfiogjfla) - a productivity chrome extension, not open-source
 
-- My first big contribution to open-source was finding (and fixing, but finding was the hard part) [a very nasty bug in the squid web-proxy](https://www.manugarg.com/2007/08/hacking-squid.html).
+- My first big contribution to open-source was finding (and fixing, but finding was the hard part) [a nasty bug in the squid web-proxy](https://www.manugarg.com/2007/08/hacking-squid.html).
 
 - In my previous life, as part of my system internals exploration, I wrote a bunch of [articles](https://articles.manugarg.com). Following two articles are still [referenced](https://www.google.com/search?q=%22articles.manugarg.com%2Fsystemcallinlinux2_6.html%22+OR+%22articles.manugarg.com%2Faboutelfauxiliaryvectors.html%22) quite a lot, including in some university courses:
     - [Sysenter Based System Call Mechanism in Linux 2.6](https://articles.manugarg.com/systemcallinlinux2_6.html)
