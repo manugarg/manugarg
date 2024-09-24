@@ -1,6 +1,6 @@
 Hello 👋, I am a software engineer, particularly interested in systems and reliability. My [linkedIn profile](https://www.linkedin.com/in/manugarg/) has work related info, so won't repeat that here.
 
-- My current [blog](https://medium.com/@manugarg) ([previous blog](https://manugarg.com) - last updated 2010).
+- My current [blog](https://medium.com/@manugarg) ([previous, more personal, blog](https://manugarg.com) - last updated 2010).
 - 🔭 I currently maintain the following projects outside of work:
     - [Cloudprober](https://github.com/cloudprober/cloudprober) - an active probing software used by a bunch of large organizations
     - [Pacparser](https://github.com/manugarg/pacparser) - C and python library to add PAC file parsing capability
